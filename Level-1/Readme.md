@@ -1,7 +1,7 @@
 ## Level 1: Core JavaScript Logic (Foundation):
 
  👉 Focus: Build logical thinking, conditionals, loops, arrays, and functions.
- (1) Write a program to check if a number is even or odd.
+- (1) Write a program to check if a number is even or odd.
 - (2) Find the largest number in an array.
 - (3) Reverse a string without using .reverse().
 - (4) Count how many times a character appears in a string.

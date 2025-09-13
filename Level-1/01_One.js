@@ -1,12 +1,15 @@
 /* (1) Write a program to check if a number is even or odd. */
 
     // Approach-1
-    let num = prompt('Enter Your Number')   // will always return string 
+    // step-1
+    let num = prompt('Enter Your Number')   // prompt always return string 
     console.log(typeof num);  // string
 
+    // step-2
     num = Number(num)   
     console.log(typeof num); // Number
         
+    // step-3
     if(num%2===0){
         console.log(`${num} is Even Number`);
     }else{
